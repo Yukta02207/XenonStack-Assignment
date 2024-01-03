@@ -1,6 +1,6 @@
 # Technical Task
 
-**Linux Custom Script Task**
+**1. Linux Custom Script Task**
 
 ![image](https://github.com/Yukta02207/XenonStack-Assignment/assets/155560248/51888a04-94ad-49b1-978b-9f124836632a)
 
@@ -10,7 +10,7 @@
 
 ![image](https://github.com/Yukta02207/XenonStack-Assignment/assets/155560248/457e3a95-b7d6-4286-a9df-38217ea9284e)
 
-**E-Commerce Website**
+**2. E-Commerce Website**
 
 ![image](https://github.com/Yukta02207/XenonStack-Assignment/assets/155560248/393ab546-8cae-4e47-9174-d6e3da31da84)
 
