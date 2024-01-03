@@ -1,4 +1,4 @@
-**Technical Task**
+# Technical Task
 
 **Linux Custom Script Task**
 
