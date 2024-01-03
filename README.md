@@ -12,19 +12,23 @@
 
 **2. E-Commerce Website**
 
+**Registration:**
+
 ![image](https://github.com/Yukta02207/XenonStack-Assignment/assets/155560248/393ab546-8cae-4e47-9174-d6e3da31da84)
+
+**Login:**
 
 ![image](https://github.com/Yukta02207/XenonStack-Assignment/assets/155560248/3a21fa66-22bc-40a0-8905-844807e4be70)
 
-Registered User: 
+**Registered User:**
 
 ![image](https://github.com/Yukta02207/XenonStack-Assignment/assets/155560248/a385c8f3-f7e8-44d9-8482-2186428054d8)
 
-Admin User:
+**Admin User:**
 
 ![image](https://github.com/Yukta02207/XenonStack-Assignment/assets/155560248/aa7a75cb-8685-4b5f-91a6-310ae56da022)
 
-Unregisterd User:
+**Unregisterd User:**
 
 ![image](https://github.com/Yukta02207/XenonStack-Assignment/assets/155560248/8db29028-55c2-4922-a53c-0fc01e58f904)  
 
